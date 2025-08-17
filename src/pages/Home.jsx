@@ -132,7 +132,7 @@ const Home = () => {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl transform hover:scale-105 transition-transform duration-300">
                 <img
-                  src=".//Home/HomeImg1.webp"
+                  src="./public/Home/HomeImg1.webp"
                   alt="Student Spotlight"
                   className="w-full h-96 object-cover"
                 />
