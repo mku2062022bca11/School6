@@ -113,29 +113,25 @@ const LearningExperience = () => {
       name: "Smart Interactive Boards",
       description: "AI-powered displays that adapt to learning styles",
       icon: Computer,
-      image:
-        "./pubilc/LearningExperience/LearningImg5.jpeg",
+      image: "./LearningExperience/LearningImg5.jpeg",
     },
     {
       name: "AI Learning Labs",
       description: "Personalized learning paths powered by machine learning",
       icon: Brain,
-      image:
-        "./pubilc/LearningExperience/LearningImg6.jpeg",
+      image: "./LearningExperience/LearningImg6.jpeg",
     },
     {
       name: "Gamified Learning Platform",
       description: "Making education engaging through game mechanics",
       icon: Trophy,
-      image:
-        "./pubilc/LearningExperience/LearningImg7.jpeg",
+      image: "./LearningExperience/LearningImg7.jpeg",
     },
     {
       name: "Virtual Reality Experiences",
       description: "Immersive learning through VR technology",
       icon: Zap,
-      image:
-        "./pubilc/LearningExperience/LearningImg8.jpeg",
+      image: "./LearningExperience/LearningImg8.jpeg",
     },
   ];
 
@@ -435,24 +431,24 @@ const LearningExperience = () => {
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-4">
                 <img
-                  src="./pubilc/LearningExperience/LearningImg1.jpeg"
+                  src="./LearningExperience/LearningImg1.jpeg"
                   alt="Collaborative Learning"
                   className="rounded-2xl shadow-lg transform hover:scale-105 transition-transform duration-300"
                 />
                 <img
-                  src="./pubilc/LearningExperience/LearningImg2.jpeg"
+                  src="./LearningExperience/LearningImg2.jpeg"
                   alt="Technology Integration"
                   className="rounded-2xl shadow-lg transform hover:scale-105 transition-transform duration-300"
                 />
               </div>
               <div className="space-y-4 mt-8">
                 <img
-                  src="./pubilc/LearningExperience/LearningImg3.jpeg"
+                  src="./LearningExperience/LearningImg3.jpeg"
                   alt="Interactive Learning"
                   className="rounded-2xl shadow-lg transform hover:scale-105 transition-transform duration-300"
                 />
                 <img
-                  src="./pubilc/LearningExperience/LearningImg4.jpeg"
+                  src="./LearningExperience/LearningImg4.jpeg"
                   alt="Innovation Lab"
                   className="rounded-2xl shadow-lg transform hover:scale-105 transition-transform duration-300"
                 />

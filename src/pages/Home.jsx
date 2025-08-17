@@ -132,7 +132,8 @@ const Home = () => {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl transform hover:scale-105 transition-transform duration-300">
                 <img
-                  src="./pubilc/Home/HomeImg1.webp"
+                  src="./Home/HomeImg1.webp"
+                  preload="auto"
                   alt="Student Spotlight"
                   className="w-full h-96 object-cover"
                 />
@@ -352,12 +353,12 @@ const Home = () => {
             <div className="relative">
               <div className="grid grid-cols-2 gap-4">
                 <img
-                  src="./pubilc/Home/HomeImg2.jpeg"
+                  src="./Home/HomeImg2.jpeg"
                   alt="Innovation Lab"
                   className="rounded-2xl shadow-lg transform hover:scale-105 transition-transform duration-300"
                 />
                 <img
-                  src="./pubilc/Home/HomeImg3.jpeg"
+                  src="./Home/HomeImg3.jpeg"
                   alt="Smart Classroom"
                   className="rounded-2xl shadow-lg transform hover:scale-105 transition-transform duration-300 mt-8"
                 />

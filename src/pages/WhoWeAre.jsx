@@ -122,7 +122,7 @@ const WhoWeAre = () => {
 
             <div className="relative">
               <img
-                src="./pubilc/Whoweare/WhoweareImg1.jpeg"
+                src="./Whoweare/WhoweareImg1.jpeg"
                 alt="Our Academy"
                 className="rounded-2xl shadow-2xl transform hover:scale-105 transition-transform duration-300"
               />
@@ -223,7 +223,7 @@ const WhoWeAre = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="relative">
               <img
-                src="./pubilc/Home/HomeImg2.jpeg"
+                src="./Home/HomeImg2.jpeg"
                 alt="Principal Dr. Sarah Chen"
                 className="rounded-2xl shadow-xl w-full"
               />
@@ -356,7 +356,7 @@ const WhoWeAre = () => {
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
               <img
-                src="./pubilc/Home/HomeImg3.jpeg"
+                src="./Home/HomeImg3.jpeg"
                 alt="Community Service"
                 className="w-full h-48 object-cover"
               />
@@ -378,7 +378,7 @@ const WhoWeAre = () => {
 
             <div className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
               <img
-                src=" ./pubilc/Whoweare/WhoweareImg4.jpeg"
+                src=" ./Whoweare/WhoweareImg4.jpeg"
                 alt="Innovation Projects"
                 className="w-full h-48 object-cover"
               />
@@ -400,7 +400,7 @@ const WhoWeAre = () => {
 
             <div className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
               <img
-                src="./pubilc/Whoweare/WhoweareImg5.jpeg"
+                src="./Whoweare/WhoweareImg5.jpeg"
                 alt="Global Connections"
                 className="w-full h-48 object-cover"
               />

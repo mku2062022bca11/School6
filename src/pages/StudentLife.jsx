@@ -142,74 +142,68 @@ const StudentLife = () => {
       title: "Morning Assembly",
       description:
         "Start the day with inspiration, announcements, and community building",
-      image:
-        "./pubilc/StudentLife/StudentImg1.jpeg",
+      image: "./StudentLife/StudentImg1.jpeg",
     },
     {
       time: "8:00 AM",
       title: "Core Learning",
       description:
         "Engaging academics with interactive technology and collaborative projects",
-      image:
-        "./pubilc/StudentLife/StudentImg2.webp",
+      image: "./StudentLife/StudentImg2.webp",
     },
     {
       time: "10:30 AM",
       title: "Innovation Lab",
       description:
         "Hands-on STEM projects, robotics, and creative problem-solving",
-      image:
-        "./pubilc/StudentLife/StudentImg3.jpeg",
+      image: "./StudentLife/StudentImg3.jpeg",
     },
     {
       time: "12:00 PM",
       title: "Lunch & Social Time",
       description:
         "Nutritious meals and valuable social interactions with peers",
-      image:
-        "./pubilc/StudentLife/StudentImg4.jpeg",
+      image: "./StudentLife/StudentImg4.jpeg",
     },
     {
       time: "1:30 PM",
       title: "Creative Arts",
       description:
         "Music, visual arts, drama, and creative expression sessions",
-      image:
-        "./pubilc/StudentLife/StudentImg5.jpeg",
+      image: "./StudentLife/StudentImg5.jpeg",
     },
     {
       time: "3:00 PM",
       title: "Club Activities",
       description:
         "Pursuing passions and developing leadership through clubs and societies",
-      image:
-        "./pubilc/StudentLife/StudentImg6.webp",
+      image: "./StudentLife/StudentImg6.webp",
     },
   ];
 
   const galleryImages = [
     {
-      url: "./pubilc/StudentLife/StudentImg7.jpeg",
+      url: "./StudentLife/StudentImg7.jpeg",
       caption: "Students collaborating on innovative projects",
     },
     {
-      url: "./pubilc/StudentLife/StudentImg8.jpeg",
+      url: "./StudentLife/StudentImg8.jpeg",
       caption: "Technology-enhanced learning environment",
     },
     {
-      url: "./pubilc/StudentLife/StudentImg9.jpeg",
+      url: "./StudentLife/StudentImg9.jpeg",
       caption: "Interactive classroom engagement",
     },
     {
-      url: "./pubilc/StudentLife/StudentImg10.jpeg",
+      url: "./StudentLife/StudentImg10.jpeg",
       caption: "Peer learning and collaboration",
     },
     {
-      url: "./pubilc/StudentLife/StudentImg11.jpeg",
+      url: "./StudentLife/StudentImg11.jpeg",
       caption: "Creative arts and expression",
     },
     {
-      url: "./pubilc/StudentLife/StudentImg12.jpeg",
+      url: "./StudentLife/StudentImg12.jpeg",
       caption: "Leadership development activities",
     },
   ];
@@ -590,7 +584,7 @@ const StudentLife = () => {
             <div className="bg-white p-8 rounded-2xl shadow-lg">
               <div className="flex items-center mb-4">
                 <img
-                  src="./pubilc/StudentLife/StudentImg13.jpeg"
+                  src="./StudentLife/StudentImg13.jpeg"
                   className="w-12 h-12 rounded-full mr-4"
                 />
                 <div>
@@ -610,7 +604,7 @@ const StudentLife = () => {
             <div className="bg-white p-8 rounded-2xl shadow-lg">
               <div className="flex items-center mb-4">
                 <img
-                  src="./pubilc/StudentLife/StudentImg14.jpeg"
+                  src="./StudentLife/StudentImg14.jpeg"
                   alt="Student"
                   className="w-12 h-12 rounded-full mr-4"
                 />
@@ -633,7 +627,7 @@ const StudentLife = () => {
             <div className="bg-white p-8 rounded-2xl shadow-lg">
               <div className="flex items-center mb-4">
                 <img
-                  src="./pubilc/StudentLife/StudentImg15.jpeg"
+                  src="./StudentLife/StudentImg15.jpeg"
                   alt="Student"
                   className="w-12 h-12 rounded-full mr-4"
                 />

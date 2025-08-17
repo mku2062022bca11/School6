@@ -61,7 +61,7 @@ const BuzzHighlights = () => {
       date: "January 15, 2025",
       excerpt:
         "The academy's groundbreaking approach to personalized education is setting new standards...",
-      image: "./pubilc/Highlights/HighlightImg1.jpeg",
+      image: "./Highlights/HighlightImg1.jpeg",
       category: "Innovation",
     },
     {
@@ -71,7 +71,7 @@ const BuzzHighlights = () => {
       date: "January 10, 2025",
       excerpt:
         "Five student startups have raised over $100K in seed funding through the academy's entrepreneurship program...",
-      image: "./pubilc/Highlights/HighlightImg2.jpeg",
+      image: "./Highlights/HighlightImg2.jpeg",
       category: "Entrepreneurship",
     },
     {
@@ -80,7 +80,7 @@ const BuzzHighlights = () => {
       date: "January 8, 2025",
       excerpt:
         "QB365 Public School Academy becomes the first educational institution in the region to achieve carbon neutrality...",
-      image: "./pubilc/Highlights/HighlightImg3.jpeg",
+      image: "./Highlights/HighlightImg3.jpeg",
       category: "Sustainability",
     },
   ];
@@ -93,7 +93,7 @@ const BuzzHighlights = () => {
       readTime: "5 min read",
       excerpt:
         "Exploring how hands-on experimentation and AI-powered tools are transforming how students engage with science and technology...",
-      image: "./pubilc/Highlights/HighlightImg4.jpeg",
+      image: "./Highlights/HighlightImg4.jpeg",
       category: "Education",
     },
     {
@@ -103,7 +103,7 @@ const BuzzHighlights = () => {
       readTime: "4 min read",
       excerpt:
         "Meet our Grade 11 students who are designing smart city solutions to address climate change and urban planning challenges...",
-      image: "./pubilc/Highlights/HighlightImg5.jpeg",
+      image: "./Highlights/HighlightImg5.jpeg",
       category: "Student Projects",
     },
     {
@@ -113,7 +113,7 @@ const BuzzHighlights = () => {
       readTime: "6 min read",
       excerpt:
         "How our international partnership program is giving students a truly global perspective on learning and collaboration...",
-      image: "./pubilc/Highlights/HighlightImg6.jpeg",
+      image: "./Highlights/HighlightImg6.jpeg",
       category: "Global Education",
     },
   ];
@@ -122,8 +122,7 @@ const BuzzHighlights = () => {
     {
       title: "Student Innovation Showcase 2024",
       duration: "12:45",
-      thumbnail:
-        "./pubilc/Highlights/HighlightImg7.jpeg",
+      thumbnail: "./Highlights/HighlightImg7.jpeg",
       description:
         "Watch our students present their groundbreaking projects at the annual innovation showcase.",
       views: "2.5K",
@@ -131,8 +130,7 @@ const BuzzHighlights = () => {
     {
       title: "AI in the Classroom: A Day at QB365 Public School",
       duration: "8:30",
-      thumbnail:
-        " ./pubilc/Highlights/HighlightImg8.jpeg",
+      thumbnail: " ./Highlights/HighlightImg8.jpeg",
       description:
         "Experience how artificial intelligence is transforming education in our smart classrooms.",
       views: "4.2K",
@@ -140,8 +138,7 @@ const BuzzHighlights = () => {
     {
       title: "Robotics Team World Championship Journey",
       duration: "15:20",
-      thumbnail:
-        "./pubilc/Highlights/HighlightImg9.jpeg",
+      thumbnail: "./Highlights/HighlightImg9.jpeg",
       description:
         "Follow our robotics team as they compete on the world stage and bring home the gold.",
       views: "3.8K",
@@ -149,8 +146,7 @@ const BuzzHighlights = () => {
     {
       title: "Sustainable Campus Initiative",
       duration: "6:15",
-      thumbnail:
-        "./pubilc/Highlights/HighlightImg10.jpeg",
+      thumbnail: "./Highlights/HighlightImg10.jpeg",
       description:
         "Learn about our journey to becoming the first carbon-neutral school in the region.",
       views: "1.9K",
